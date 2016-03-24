@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/public/wechatshare/access_token.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/public/wechatshare/index.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/wechatshare/jsapi_ticket.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/public/wechatshare/jssdk.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/wechatshare/sample.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/wechatshare/weixin-jssdk/my-demo/access_token.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/public/wechatshare/weixin-jssdk/my-demo/jsapi_ticket.php" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
