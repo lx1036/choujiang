@@ -276,3 +276,4 @@ Route::get('/liuxiang/wechat/getallwechatimg', 'UploadController@getAllWechatImg
 Route::get('emoji', function () {
     return view('liuxiang.emoji');
 });
+
